@@ -1,0 +1,1 @@
+[50, 0.00001, 5e-04, '/home/prem/prem_workspace/data_folder/Conveyor_3D/simulated_data_generation_pybullet/3d_vs/train_depth', '/home/prem/prem_workspace/data_folder/Conveyor_3D/simulated_data_generation_pybullet/3d_vs/val_depth', [0],200, 0,3,7,1.0,False,'/home/prem/prem_workspace/data_folder/Conveyor_3D/simulated_data_generation_pybullet/src/quat_132_table_top.pt']

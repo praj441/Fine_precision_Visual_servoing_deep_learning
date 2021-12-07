@@ -1,0 +1,1 @@
+[50, 0.00001, 5e-04, '/home/prem/prem_workspace/data_folder/Conveyor_3D/simulated_data_generation_pybullet/3d_vs/v0_train', '/home/prem/prem_workspace/data_folder/Conveyor_3D/simulated_data_generation_pybullet/3d_vs/v0_val', [0,1],200, 0,3,7,1.0,False,'trained_nets/mytraining_train_overfit11.pt']

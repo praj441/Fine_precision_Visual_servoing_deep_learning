@@ -1,0 +1,1 @@
+[50, 0.00001, 5e-04, '../../data_folder/scale_match_RO_lsd_val', '../../data_folder/scale_match_RO_lsd_val', [0],70, 0,3,6,0.2,False,'trained_nets/mytraining_train_overfit11.pt']
