@@ -14,7 +14,11 @@ It contains two different folder named lsd(for large scale displacements) and ss
 **Trained weights** - [Download here](https://drive.google.com/file/d/1MNo3KuChqkdwvjiRsE4JiVhTaKVA07BZ/view?usp=sharing) Currently uploaded trained weights for 4 variants which are as follow:-
 
 lsd.pt - model trained with lsd data (100K data samples)
+
 ssd.pt - model trained with ssd data (100K data samples)
+
 combine.pt - model trained with lsd+ssd data (200K data samples)
+
 combine_switch - model trained with lsd+ssd data using impllicit switch technique (200K data samples)
+
 *Other weights can be made available on request basis. 
