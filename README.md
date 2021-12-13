@@ -7,5 +7,13 @@ Convolutional Neural Networks (CNNs) have been successfully applied for relative
 **For any query please contact** premr441@gmail.com 
 
 **Validation data** to verify the different parts of the code - [Download](https://drive.google.com/file/d/1YPyqyM98L4PS2BcXUs3rVLRNFtU10aye/view?usp=sharing)
+It contains two different folder named lsd(for large scale displacements) and ssd(short scale displacements). Each folder contain 1000 data samples. 
 
 **Training data** - planning to add the download link soon. Currently due to larger size, not able to upload it.
+
+**Trained weights** - Currently uploaded trained weights for 4 variants which are as follow:-
+lsd.pt - model trained with lsd data (100K data samples)
+ssd.pt - model trained with ssd data (100K data samples)
+combine.pt - model trained with lsd+ssd data (200K data samples)
+combine_switch - model trained with lsd+ssd data using impllicit switch technique (200K data samples)
+*Other weights can be made available on request basis. 
