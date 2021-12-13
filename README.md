@@ -1,9 +1,9 @@
 # Fine_precision_Visual_servoing_deep_learning
 Implementation of the paper "Learning to Switch CNNs with Model Agnostic Meta Learning for Fine Precision Visual Servoing." 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2020."
 
-Abtract:
+**Abtract:**
 Convolutional Neural Networks (CNNs) have been successfully applied for relative camera pose estimation from labeled image-pair data, without requiring any handengineered features, camera intrinsic parameters or depth information. The trained CNN can be utilized for performing pose based visual servo control (PBVS). One of the ways to improve the quality of visual servo output is to improve the accuracy of the CNN for estimating the relative pose estimation. With a given state-of-the-art CNN for relative pose regression, how can we achieve an improved performance for visual servo control? In this paper, we explore switching of CNNs to improve the precision of visual servo control. The idea of switching a CNN is due to the fact that the dataset for training a relative camera pose regressor for visual servo control must contain variations in relative pose ranging from a very small scale to eventually a larger scale. We found that, training two different instances of the CNN, one for large-scale-displacements (LSD) and another for small-scale-displacements (SSD) and switching them during the visual servo execution yields better results than training a single CNN with the combined LSD+SSD data. However, it causes extra storage overhead and switching decision is taken by a manually set threshold which may not be optimal for all the scenes. To eliminate these drawbacks, we propose an efficient switching strategy based on model agnostic meta learning (MAML) algorithm. In this, a single model is trained to learn parameters which are simultaneously good for multiple tasks, namely a binary classification for switching decision, a 6DOF pose regression for LSD data and also a 6DOF pose regression for SSD data. The proposed approach performs far better than the naive approach, while storage and run-time overheads are almost negligible.
 
-For any query please contact premr441@gmail.com 
+**For any query please contact** premr441@gmail.com 
 
-Validation data to verify the different parts of the code - [Download](https://drive.google.com/file/d/1YPyqyM98L4PS2BcXUs3rVLRNFtU10aye/view?usp=sharing)
+**Validation data** to verify the different parts of the code - [Download](https://drive.google.com/file/d/1YPyqyM98L4PS2BcXUs3rVLRNFtU10aye/view?usp=sharing)
