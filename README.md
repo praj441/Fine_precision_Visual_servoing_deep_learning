@@ -19,6 +19,6 @@ ssd.pt - model trained with ssd data (100K data samples)
 
 combine.pt - model trained with lsd+ssd data (200K data samples)
 
-combine_switch - model trained with lsd+ssd data using impllicit switch technique (200K data samples)
+combine_switch - model trained with lsd+ssd data using implicit switch technique (200K data samples)
 
 *Other weights can be made available on request basis. 
