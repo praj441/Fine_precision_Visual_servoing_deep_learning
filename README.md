@@ -6,12 +6,11 @@ Convolutional Neural Networks (CNNs) have been successfully applied for relative
 
 **For any query please contact** premr441@gmail.com  or raise an issue here.
 
-**Validation data** to verify the different parts of the code - [Download](https://drive.google.com/file/d/1YPyqyM98L4PS2BcXUs3rVLRNFtU10aye/view?usp=sharing)
-It contains two different folder named lsd(for large scale displacements) and ssd(short scale displacements). Each folder contain 1000 data samples. 
+**Validation data** to verify the different parts of the code - [Download](https://drive.google.com/file/d/1YPyqyM98L4PS2BcXUs3rVLRNFtU10aye/view?usp=sharing) Size:178.5 MB. It contains two different folder named lsd(for large scale displacements) and ssd(short scale displacements). Each folder contain 1000 data samples. 
 
-**Training data** - [Download](https://www.dropbox.com/s/tkqfty4yx6lf3jn/train_data_vs1.zip?dl=0) size:35.5 GG, One single zip file. This file also contain the validation data.
+**Training data** - [Download](https://www.dropbox.com/s/tkqfty4yx6lf3jn/train_data_vs1.zip?dl=0) size:35.5 GB. One single zip file. This file also contain the validation data.
 
-**Trained weights** - [Download here](https://drive.google.com/file/d/1MNo3KuChqkdwvjiRsE4JiVhTaKVA07BZ/view?usp=sharing) Currently uploaded trained weights for 4 variants which are as follow:-
+**Trained weights** - [Download here](https://drive.google.com/file/d/1MNo3KuChqkdwvjiRsE4JiVhTaKVA07BZ/view?usp=sharing) Size:198.3 MB. Currently uploaded trained weights for 4 variants which are as follow:-
 
 lsd.pt - model trained with lsd data (100K data samples)
 
